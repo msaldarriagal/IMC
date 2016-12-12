@@ -1,0 +1,10 @@
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\bin\Debug\ExaFinal.exe.config
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\bin\Debug\ExaFinal.exe
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\bin\Debug\ExaFinal.pdb
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\bin\Debug\ExaFinal.xml
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\obj\Debug\ExaFinal.vbprojResolveAssemblyReference.cache
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\obj\Debug\ExaFinal.Resources.resources
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\obj\Debug\ExaFinal.vbproj.GenerateResource.Cache
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\obj\Debug\ExaFinal.exe
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\obj\Debug\ExaFinal.xml
+C:\Users\mikis\OneDrive\Documentos\Visual Studio 2015\Projects\MiniCalc\ExaFinal\obj\Debug\ExaFinal.pdb
